@@ -1,4 +1,4 @@
-# Coding-Solutions
+# coding-solutions
 This collates my solutions to different programming puzzles and problems from Edabit and freeCodeCamp.
 
 Info about the puzzles/problems can be found on:
